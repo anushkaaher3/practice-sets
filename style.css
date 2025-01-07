@@ -1,0 +1,18 @@
+
+h2{
+    background-position:center;
+    background-color: aliceblue;
+    color: black;
+}
+body{
+    color:indianred;
+    background-color: whitesmoke;
+    text-align: center;
+}
+form{
+    align-items: center;
+    color: blue;
+    background-color: aqua;
+    font-family: verdana;
+    font-size: 45%;
+}
