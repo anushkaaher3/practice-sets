@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1200px;
+    padding: 20px;
+  }
+  
+  .card {
+    background: whitesmoke;
+    border: 1px solid #f7f5f5;
+    border-radius: auto;
+    box-shadow: auto rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 15px;
+    
+  }
+  
+  
+  
+  .card p {
+    color: #333;
+    font-size: 16px;
+  }
